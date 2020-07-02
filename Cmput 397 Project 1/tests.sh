@@ -1,0 +1,1 @@
+python3 ./create_index/testTokenizer.py;python3 ./query/testRank.py;python3 ./create_index/dbTest.py;
